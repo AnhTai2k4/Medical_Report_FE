@@ -65,7 +65,7 @@ const VisualizePage = () => {
   
 
   return (
-    <div style={{ width: "100vh", margin: "0 auto", padding: "20px" }}>
+    <div style={{ width: "120vh", margin: "0 auto", padding: "20px" }}>
       <h1 style={{color:"black", textAlign: "center"}} >Thống kê số liệu mẫu báo cáo sự cố y khoa </h1>
       {/* Chart 1 */}
       <div className="chart__container">
